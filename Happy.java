@@ -1,5 +1,7 @@
 class Happy {
-public static void main (String[] args) {
-	System.out.println("HelloHappyWord!!!");
+    public static void main (String[] args) {
+        int a;
+        a = 10;
+        System.out.println(a);
 }
 }
